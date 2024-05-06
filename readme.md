@@ -34,10 +34,9 @@ O usa un plugin de Snipets si no quieres subirlo como plugin
 
 ## Contribuir
 
-Si encuentras algún problema o deseas mejorar el snipet, siéntete libre de abrir un issue o enviar un pull request en el [repositorio de GitHub](https://github.com/ejemplo/nombre-del-repositorio).
+Si encuentras algún problema o deseas mejorar el snipet, siéntete libre de abrir un issue o enviar un pull request en el [repositorio de GitHub](https://github.com/CobosDeyby/woo_attachment_files).
 
 
 ## Licencia
 
-Este snipet está licenciado bajo la [Licencia Pública General de GNU (GPL)](https://www.gnu.org/licenses/gpl-2.0.html), versión 2 o posterior. Puedes consultar el archivo [LICENSE.md](LICENSE.md) para más detalles.
-
+Este snipet está licenciado bajo la [Licencia Pública General de GNU (GPL)](https://www.gnu.org/licenses/gpl-2.0.html), versión 2 o posterior. 
